@@ -1,4 +1,4 @@
 # Pure-CSS-Rain-with-Strom
-This is Pure Css animation effects, Rain with Strom
+This is Pure CSS animation effects, Rain with Strom
 
-Live Demo here https://sharabindu.com/pure_css_rain_with_strom/
+Live Demo here https://codepen.io/sharabindu/pen/PoXjmBz
